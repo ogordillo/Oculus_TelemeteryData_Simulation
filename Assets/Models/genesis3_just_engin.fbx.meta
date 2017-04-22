@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: dde6817691b63e1499c3335344fba772
+timeCreated: 1492846178
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ac pulley
+    100002: alternater pulley
+    100004: blower belt
+    100006: Circle.001
+    100008: Circle.002
+    100010: Circle.003
+    100012: Circle.006
+    100014: Circle.009
+    100016: Circle.012
+    100018: Cube
+    100020: Cube.001
+    100022: Empty
+    100024: Empty.001
+    100026: engine block
+    100028: fan ac belt
+    100030: //RootNode
+    100032: harmonic balancer
+    100034: Hemi
+    100036: lug nut
+    100038: lug nut.001
+    100040: lug nut.002
+    100042: lug nut.005
+    100044: lug nut.006
+    100046: lug nut.007
+    100048: lug nut2
+    100050: lug nut2.001
+    100052: lug nut2.002
+    100054: lug nut2.005
+    100056: lug nut2.006
+    100058: lug nut2.007
+    100060: lug nut3
+    100062: lug nut3.001
+    100064: lug nut3.002
+    100066: lug nut3.005
+    100068: lug nut3.006
+    100070: lug nut3.007
+    100072: lug nut4
+    100074: lug nut4.001
+    100076: lug nut4.002
+    100078: lug nut4.005
+    100080: lug nut4.006
+    100082: lug nut4.007
+    100084: tension bottom
+    100086: tension mid
+    100088: tension top
+    100090: waterpump pulley
+    400000: ac pulley
+    400002: alternater pulley
+    400004: blower belt
+    400006: Circle.001
+    400008: Circle.002
+    400010: Circle.003
+    400012: Circle.006
+    400014: Circle.009
+    400016: Circle.012
+    400018: Cube
+    400020: Cube.001
+    400022: Empty
+    400024: Empty.001
+    400026: engine block
+    400028: fan ac belt
+    400030: //RootNode
+    400032: harmonic balancer
+    400034: Hemi
+    400036: lug nut
+    400038: lug nut.001
+    400040: lug nut.002
+    400042: lug nut.005
+    400044: lug nut.006
+    400046: lug nut.007
+    400048: lug nut2
+    400050: lug nut2.001
+    400052: lug nut2.002
+    400054: lug nut2.005
+    400056: lug nut2.006
+    400058: lug nut2.007
+    400060: lug nut3
+    400062: lug nut3.001
+    400064: lug nut3.002
+    400066: lug nut3.005
+    400068: lug nut3.006
+    400070: lug nut3.007
+    400072: lug nut4
+    400074: lug nut4.001
+    400076: lug nut4.002
+    400078: lug nut4.005
+    400080: lug nut4.006
+    400082: lug nut4.007
+    400084: tension bottom
+    400086: tension mid
+    400088: tension top
+    400090: waterpump pulley
+    2300000: ac pulley
+    2300002: alternater pulley
+    2300004: blower belt
+    2300006: Circle.001
+    2300008: Circle.002
+    2300010: Circle.003
+    2300012: Circle.006
+    2300014: Circle.009
+    2300016: Circle.012
+    2300018: Cube
+    2300020: Cube.001
+    2300022: engine block
+    2300024: fan ac belt
+    2300026: harmonic balancer
+    2300028: lug nut
+    2300030: lug nut.001
+    2300032: lug nut.002
+    2300034: lug nut.005
+    2300036: lug nut.006
+    2300038: lug nut.007
+    2300040: lug nut2
+    2300042: lug nut2.001
+    2300044: lug nut2.002
+    2300046: lug nut2.005
+    2300048: lug nut2.006
+    2300050: lug nut2.007
+    2300052: lug nut3
+    2300054: lug nut3.001
+    2300056: lug nut3.002
+    2300058: lug nut3.005
+    2300060: lug nut3.006
+    2300062: lug nut3.007
+    2300064: lug nut4
+    2300066: lug nut4.001
+    2300068: lug nut4.002
+    2300070: lug nut4.005
+    2300072: lug nut4.006
+    2300074: lug nut4.007
+    2300076: tension bottom
+    2300078: tension mid
+    2300080: tension top
+    2300082: waterpump pulley
+    3300000: ac pulley
+    3300002: alternater pulley
+    3300004: blower belt
+    3300006: Circle.001
+    3300008: Circle.002
+    3300010: Circle.003
+    3300012: Circle.006
+    3300014: Circle.009
+    3300016: Circle.012
+    3300018: Cube
+    3300020: Cube.001
+    3300022: engine block
+    3300024: fan ac belt
+    3300026: harmonic balancer
+    3300028: lug nut
+    3300030: lug nut.001
+    3300032: lug nut.002
+    3300034: lug nut.005
+    3300036: lug nut.006
+    3300038: lug nut.007
+    3300040: lug nut2
+    3300042: lug nut2.001
+    3300044: lug nut2.002
+    3300046: lug nut2.005
+    3300048: lug nut2.006
+    3300050: lug nut2.007
+    3300052: lug nut3
+    3300054: lug nut3.001
+    3300056: lug nut3.002
+    3300058: lug nut3.005
+    3300060: lug nut3.006
+    3300062: lug nut3.007
+    3300064: lug nut4
+    3300066: lug nut4.001
+    3300068: lug nut4.002
+    3300070: lug nut4.005
+    3300072: lug nut4.006
+    3300074: lug nut4.007
+    3300076: tension bottom
+    3300078: tension mid
+    3300080: tension top
+    3300082: waterpump pulley
+    4300000: engine block
+    4300002: Circle.001
+    4300004: fan ac belt
+    4300006: blower belt
+    4300008: Circle.002
+    4300010: Circle.003
+    4300012: Circle.009
+    4300014: alternater pulley
+    4300016: Circle.012
+    4300018: tension bottom
+    4300020: harmonic balancer
+    4300022: ac pulley
+    4300024: Circle.006
+    4300026: waterpump pulley
+    4300028: tension top
+    4300030: Cube.001
+    4300032: Cube
+    4300034: tension mid
+    4300036: lug nut
+    4300038: lug nut2
+    4300040: lug nut3
+    4300042: lug nut4
+    4300044: lug nut4.001
+    4300046: lug nut3.001
+    4300048: lug nut2.001
+    4300050: lug nut.001
+    4300052: lug nut.006
+    4300054: lug nut2.006
+    4300056: lug nut3.006
+    4300058: lug nut4.006
+    4300060: lug nut4.007
+    4300062: lug nut3.007
+    4300064: lug nut2.007
+    4300066: lug nut.007
+    4300068: lug nut.002
+    4300070: lug nut2.002
+    4300072: lug nut3.002
+    4300074: lug nut4.002
+    4300076: lug nut4.005
+    4300078: lug nut3.005
+    4300080: lug nut2.005
+    4300082: lug nut.005
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
